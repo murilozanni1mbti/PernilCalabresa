@@ -65,7 +65,7 @@ div img {
  }
 
  div a:hover {
-   background-color: yellow;
+   background-color: white;
    color: #141414;
    transition: 0.4s;
  }
